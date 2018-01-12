@@ -1,4 +1,4 @@
-[![build status](http://gitlab.devel/wellingtonoliveira/serint/badges/master/build.svg)](http://gitlab.devel/wellingtonoliveira/serint/commits/master)
+[![build status](https://travis-ci.org/wvoliveira/serint.svg?branch=master)](https://travis-ci.org/wvoliveira/serint)
 # Serint
 
 No comeco era pra procurar algum termo sobre vagas no Google, mas voce pode utilizar para outros propósitos.  
