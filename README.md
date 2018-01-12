@@ -11,7 +11,7 @@ Testado:
 Como usar?
 ----------
 
-- Modifique a linha `vagas` para os termos que queira buscar no mecanismo de busca:
+- Modifique a linha `vagas` para os termos que queira buscar no mecanismo de busca:  
 vagas = ["atendente", "suporte tecnico"]
 
 - Modifique a linha `pesquisa` para qual mecanismo de busca queira utilizar para efetuar tal busca:  
